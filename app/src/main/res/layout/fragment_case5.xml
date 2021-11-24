@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:text="Case5. Арифметические действия над числами пронумерованы следующим образом: 1 — сложение, 2 — вычитание, 3 — умножение, 4 — деление. Дан номер действия N (целое число в диапазоне 1–4) и вещественные числа A и B (B не равно 0). Выполнить над числами указанное действие и вывести результат."
+        android:textSize="14sp" />
+
+    <NumberPicker
+        android:id="@+id/number_pickerCase5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="125dp"
+        android:layout_marginRight="32dp"/>
+
+    <TextView
+        android:id="@+id/textViewCase5_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="310dp"
+        android:layout_marginRight="32dp"/>
+
+
+    <EditText
+        android:id="@+id/editTextCase5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="340dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите число A"
+        android:inputType="numberSigned"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/editTextCase5_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="380dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите число B"
+        android:inputType="numberSigned"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewCase5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="430dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewCase5_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:textSize="0sp" />
+
+    <Button
+        android:id="@+id/buttonCase5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:text="Считать"
+        android:backgroundTint="#FF018786"
+        android:layout_margin="32dp"/>
+
+</RelativeLayout>

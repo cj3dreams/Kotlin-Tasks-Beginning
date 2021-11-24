@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:text="Case1. Дано целое число в диапазоне 1-7. Вывести строку — название дня недели, соответствующее данному числу (1 — «понедельник», 2 — «вторник» и т. д.)"
+        android:textSize="14sp" />
+
+    <NumberPicker
+        android:id="@+id/number_pickerCase1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="32dp"/>
+
+    <TextView
+        android:id="@+id/textViewCase1_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:textSize="14sp" />
+
+
+    <EditText
+        android:id="@+id/editTextCase1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginRight="32dp"
+        android:hint="Ввести вручную"
+        android:inputType="numberSigned"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewCase1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="410dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/buttonCase1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:text="Выбор"
+        android:backgroundTint="#FF018786"
+        android:layout_margin="32dp"/>
+
+
+
+</RelativeLayout>

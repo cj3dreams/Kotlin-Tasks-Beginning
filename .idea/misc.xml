@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/drawable/ic_code.xml" value="0.18703703703703703" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/drawable/ic_home.xml" value="0.18703703703703703" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/activity_splash_screen.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/activity_splash_screen2.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin1.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin10.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin2.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin3.xml" value="0.1" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin4.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin5.xml" value="0.1" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin6.xml" value="0.28728070175438597" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin7.xml" value="0.33" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin8.xml" value="0.1" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_begin9.xml" value="0.5" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean1.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean10.xml" value="0.15" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean2.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean3.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean4.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean5.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean6.xml" value="0.1" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean7.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean8.xml" value="0.18" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_boolean9.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case1.xml" value="0.2" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case10.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case2.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case3.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case4.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case5.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case6.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case7.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case8.xml" value="0.28728070175438597" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_case9.xml" value="0.33" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_code.xml" value="0.16" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_first.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_for.xml" value="0.32525083612040134" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_for4.xml" value="0.15625" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if1.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if10.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if2.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if3.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if4.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if5.xml" value="0.4377049180327869" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if6.xml" value="0.22" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if7.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if8.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_if9.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_info.xml" value="0.1" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer1.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer10.xml" value="0.1" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer2.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer3.xml" value="0.33" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer4.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer5.xml" value="0.1" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer6.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer7.xml" value="0.22" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer8.xml" value="0.1" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_integer9.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_main.xml" value="0.25" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_second.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_task1.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_task2.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_task3.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_task4.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/layout/fragment_task5.xml" value="0.20260416666666667" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/X-Lab/zAndroidStudio/Fragment/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

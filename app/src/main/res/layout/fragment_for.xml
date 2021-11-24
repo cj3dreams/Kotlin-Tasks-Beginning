@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="ForFragment"
+        android:padding="26dp"
+        android:orientation="vertical">
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/web_view8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:src="@drawable/gifcase" />
+
+        <Button
+            android:id="@+id/for1"
+            android:layout_width="match_parent"
+            android:text="FOR 1"
+            android:padding="10dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/for2"
+            android:layout_width="match_parent"
+            android:text="FOR 2"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/for3"
+            android:layout_width="match_parent"
+            android:text="FOR 3"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/for4"
+            android:layout_width="match_parent"
+            android:text="FOR 4"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/for5"
+            android:layout_width="match_parent"
+            android:text="FOR 5"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/for6"
+            android:layout_width="match_parent"
+            android:text="FOR 6"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/for7"
+            android:layout_width="match_parent"
+            android:text="FOR 7"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/for8"
+            android:layout_width="match_parent"
+            android:text="FOR 8"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/for9"
+            android:layout_width="match_parent"
+            android:text="FOR 9"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/for10"
+            android:layout_width="match_parent"
+            android:text="FOR 10"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+    </LinearLayout>
+</ScrollView>

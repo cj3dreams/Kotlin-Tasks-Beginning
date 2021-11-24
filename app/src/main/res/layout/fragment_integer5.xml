@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:text="Integer5. Даны целые положительные числа A и B (A > B). На отрезке длины A размещено максимально возможное количество отрезков длины B (без наложений). Используя операцию взятия остатка от деления нацело, найти длину незанятой части отрезка A."
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/editTextInteger5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="162dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите первое положительное число"
+        android:inputType="numberSigned"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editTextInteger5_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="212dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите второе положительное число"
+        android:inputType="numberSigned"
+        android:textSize="12sp" />
+
+
+    <Button
+        android:id="@+id/buttonInteger5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:text="Найти"
+        android:backgroundTint="#F06292"
+        android:layout_margin="32dp"/>
+
+</RelativeLayout>

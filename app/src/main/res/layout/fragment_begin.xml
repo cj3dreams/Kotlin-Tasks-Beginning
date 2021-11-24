@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="BeginFragment"
+        android:padding="26dp"
+        android:orientation="vertical">
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/web_view2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:src="@drawable/begin" />
+
+        <Button
+            android:id="@+id/begin1"
+            android:layout_width="match_parent"
+            android:text="BEGIN 1"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#7986CB"/>
+
+        <Button
+            android:id="@+id/begin2"
+            android:layout_width="match_parent"
+            android:text="BEGIN 2"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#7986CB"/>
+
+        <Button
+            android:id="@+id/begin3"
+            android:layout_width="match_parent"
+            android:text="BEGIN 3"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#7986CB"/>
+
+        <Button
+            android:id="@+id/begin4"
+            android:layout_width="match_parent"
+            android:text="BEGIN 4"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#7986CB"/>
+
+        <Button
+            android:id="@+id/begin5"
+            android:layout_width="match_parent"
+            android:text="BEGIN 5"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#7986CB"/>
+
+        <Button
+            android:id="@+id/begin6"
+            android:layout_width="match_parent"
+            android:text="BEGIN 6"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#7986CB"/>
+
+        <Button
+            android:id="@+id/begin7"
+            android:layout_width="match_parent"
+            android:text="BEGIN 7"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#7986CB"/>
+
+        <Button
+            android:id="@+id/begin8"
+            android:layout_width="match_parent"
+            android:text="BEGIN 8"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#7986CB"/>
+
+        <Button
+            android:id="@+id/begin9"
+            android:layout_width="match_parent"
+            android:text="BEGIN 9"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#7986CB"/>
+
+        <Button
+            android:id="@+id/begin10"
+            android:layout_width="match_parent"
+            android:text="BEGIN 10"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#7986CB"/>
+
+    </LinearLayout>
+</ScrollView>

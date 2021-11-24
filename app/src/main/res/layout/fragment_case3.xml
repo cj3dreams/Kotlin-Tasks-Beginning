@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:text="Case3. Дан номер месяца — целое число в диапазоне 1–12 (1 — январь, 2 февраль и т. д.). Вывести название соответствующего времени года («зима», «весна», «лето», «осень»)."
+        android:textSize="14sp" />
+
+    <NumberPicker
+        android:id="@+id/number_pickerCase3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="32dp"/>
+
+    <TextView
+        android:id="@+id/textViewCase3_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginRight="32dp"/>
+
+
+    <EditText
+        android:id="@+id/editTextCase3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите число месяца"
+        android:inputType="numberSigned"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewCase3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="410dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:textSize="14sp" />
+
+
+
+    <Button
+        android:id="@+id/buttonCase3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:text="Выбор"
+        android:backgroundTint="#FF018786"
+        android:layout_margin="32dp"/>
+
+
+
+</RelativeLayout>

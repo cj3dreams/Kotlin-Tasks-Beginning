@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:text="Case8. Даны два целых числа: D (день) и M (месяц), определяющие правильную дату невисокосного года. Вывести значения D и M для даты, предшествующей указанной."
+        android:textSize="14sp" />
+
+    <NumberPicker
+        android:id="@+id/number_pickerCase8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="32dp"/>
+
+    <TextView
+        android:id="@+id/textViewCase8_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="310dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:textSize="14sp" />
+
+
+    <EditText
+        android:id="@+id/editTextCase8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="370dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите день (D)"
+        android:inputType="numberSigned"
+        android:textSize="14sp" />
+
+
+    <TextView
+        android:id="@+id/textViewCase8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="425dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewCase8_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:textSize="0sp" />
+
+    <Button
+        android:id="@+id/buttonCase8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:text="Вывести"
+        android:backgroundTint="#FF018786"
+        android:layout_margin="32dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:text="If9. Даны две переменные вещественного типа: A, B. Перераспределить значения данных переменных так, чтобы в A оказалось меньшее из значений, а в B — большее. Вывести новые значения переменных A и B."
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/editTextIf9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите первое число"
+        android:inputType="numberSigned"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editTextIf9_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="206dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите второе число"
+        android:inputType="numberSigned"
+        android:textSize="12sp" />
+
+
+    <Button
+        android:id="@+id/buttonIf9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:text="Найти"
+        android:backgroundTint="#4CAF50"
+        android:layout_margin="32dp"/>
+
+</RelativeLayout>

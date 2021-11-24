@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="IntegerFragment"
+        android:padding="26dp"
+        android:orientation="vertical">
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/web_view2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:src="@drawable/gifint" />
+
+        <Button
+            android:id="@+id/integer1"
+            android:layout_width="match_parent"
+            android:text="INTEGER 1"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#F06292"/>
+
+        <Button
+            android:id="@+id/integer2"
+            android:layout_width="match_parent"
+            android:text="INTEGER 2"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#F06292"/>
+
+        <Button
+            android:id="@+id/integer3"
+            android:layout_width="match_parent"
+            android:text="INTEGER 3"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#F06292"/>
+
+        <Button
+            android:id="@+id/integer4"
+            android:layout_width="match_parent"
+            android:text="INTEGER 4"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#F06292"/>
+
+        <Button
+            android:id="@+id/integer5"
+            android:layout_width="match_parent"
+            android:text="INTEGER 5"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#F06292"/>
+
+        <Button
+            android:id="@+id/integer6"
+            android:layout_width="match_parent"
+            android:text="INTEGER 6"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#F06292"/>
+
+        <Button
+            android:id="@+id/integer7"
+            android:layout_width="match_parent"
+            android:text="INTEGER 7"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#F06292"/>
+
+        <Button
+            android:id="@+id/integer8"
+            android:layout_width="match_parent"
+            android:text="INTEGER 8"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#F06292"/>
+
+        <Button
+            android:id="@+id/integer9"
+            android:layout_width="match_parent"
+            android:text="INTEGER 9"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#F06292"/>
+
+        <Button
+            android:id="@+id/integer10"
+            android:layout_width="match_parent"
+            android:text="INTEGER 10"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#F06292"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:text="Case7. Единицы массы пронумерованы следующим образом: 1 — килограмм, 2 — миллиграмм, 3 — грамм, 4 — тонна, 5 — центнер. Дан номер единицы массы (целое число в диапазоне 1–5) и масса тела в этих единицах (вещественное число). Найти массу тела в килограммах."
+        android:textSize="14sp" />
+
+    <NumberPicker
+        android:id="@+id/number_pickerCase7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="135dp"
+        android:layout_marginRight="32dp"/>
+
+    <TextView
+        android:id="@+id/textViewCase7_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="315dp"
+        android:layout_marginRight="32dp"/>
+
+
+    <EditText
+        android:id="@+id/editTextCase7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="375dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите массу"
+        android:inputType="numberSigned"
+        android:textSize="14sp" />
+
+
+    <TextView
+        android:id="@+id/textViewCase7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="430dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewCase7_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginRight="32dp"
+        android:gravity="center"
+        android:textSize="0sp" />
+
+    <Button
+        android:id="@+id/buttonCase7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:text="Найти"
+        android:backgroundTint="#FF018786"
+        android:layout_margin="32dp"/>
+
+</RelativeLayout>

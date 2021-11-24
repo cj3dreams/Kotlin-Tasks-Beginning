@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:text="Integer6. Дано двузначное число. Вывести вначале его левую цифру (десятки), а затем — его правую цифру (единицы). Для нахождения десятков исполь-зовать операцию деления нацело, для нахождения единиц — операцию взятия остатка от деления."
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/editTextInteger6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="162dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите положительное двузначное число"
+        android:inputType="numberSigned"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/buttonInteger6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:text="Найти"
+        android:backgroundTint="#F06292"
+        android:layout_margin="32dp"/>
+</RelativeLayout>

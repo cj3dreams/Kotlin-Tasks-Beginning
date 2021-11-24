@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="CaseFragment"
+        android:padding="26dp"
+        android:orientation="vertical">
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/web_view8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:src="@drawable/gifcase" />
+
+        <Button
+            android:id="@+id/case1"
+            android:layout_width="match_parent"
+            android:text="CASE 1"
+            android:padding="10dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/case2"
+            android:layout_width="match_parent"
+            android:text="CASE 2"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/case3"
+            android:layout_width="match_parent"
+            android:text="CASE 3"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/case4"
+            android:layout_width="match_parent"
+            android:text="CASE 4"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/case5"
+            android:layout_width="match_parent"
+            android:text="CASE 5"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/case6"
+            android:layout_width="match_parent"
+            android:text="CASE 6"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/case7"
+            android:layout_width="match_parent"
+            android:text="CASE 7"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/case8"
+            android:layout_width="match_parent"
+            android:text="CASE 8"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/case9"
+            android:layout_width="match_parent"
+            android:text="CASE 9"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+        <Button
+            android:id="@+id/case10"
+            android:layout_width="match_parent"
+            android:text="CASE 10"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF018786"/>
+
+    </LinearLayout>
+</ScrollView>

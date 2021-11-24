@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="IfFragment"
+        android:padding="26dp"
+        android:orientation="vertical">
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/web_view2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:src="@drawable/gifif" />
+
+        <Button
+            android:id="@+id/if1"
+            android:layout_width="match_parent"
+            android:text="IF 1"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#4CAF50"/>
+
+        <Button
+            android:id="@+id/if2"
+            android:layout_width="match_parent"
+            android:text="IF 2"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#4CAF50"/>
+
+        <Button
+            android:id="@+id/if3"
+            android:layout_width="match_parent"
+            android:text="IF 3"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#4CAF50"/>
+
+        <Button
+            android:id="@+id/if4"
+            android:layout_width="match_parent"
+            android:text="IF 4"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#4CAF50"/>
+
+        <Button
+            android:id="@+id/if5"
+            android:layout_width="match_parent"
+            android:text="IF 5"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#4CAF50"/>
+
+        <Button
+            android:id="@+id/if6"
+            android:layout_width="match_parent"
+            android:text="IF 6"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#4CAF50"/>
+
+        <Button
+            android:id="@+id/if7"
+            android:layout_width="match_parent"
+            android:text="IF 7"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#4CAF50"/>
+
+        <Button
+            android:id="@+id/if8"
+            android:layout_width="match_parent"
+            android:text="IF 8"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#4CAF50"/>
+
+        <Button
+            android:id="@+id/if9"
+            android:layout_width="match_parent"
+            android:text="IF 9"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#4CAF50"/>
+
+        <Button
+            android:id="@+id/if10"
+            android:layout_width="match_parent"
+            android:text="IF 10"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#4CAF50"/>
+
+    </LinearLayout>
+</ScrollView>

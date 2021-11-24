@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:text="Begin9. Даны два неотрицательных числа                  a и b. Найти их среднее геометрическое, то есть квадратный корень из их произведения: √a·b"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/editTextBegin9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="105dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите число a"
+        android:inputType="numberSigned"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editTextBegin9_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="161dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите число b"
+        android:inputType="numberSigned"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/buttonBegin9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:text="Найти"
+        android:backgroundTint="#7986CB"
+        android:layout_margin="32dp"/>
+</RelativeLayout>
+

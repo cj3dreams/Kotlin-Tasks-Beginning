@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="BooleanFragment"
+        android:padding="26dp"
+        android:orientation="vertical">
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/web_view8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:src="@drawable/gifbool" />
+
+        <Button
+            android:id="@+id/boolean1"
+            android:layout_width="match_parent"
+            android:text="BOOLEAN 1"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF5722"/>
+
+        <Button
+            android:id="@+id/boolean2"
+            android:layout_width="match_parent"
+            android:text="BOOLEAN 2"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF5722"/>
+
+        <Button
+            android:id="@+id/boolean3"
+            android:layout_width="match_parent"
+            android:text="BOOLEAN 3"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF5722"/>
+
+        <Button
+            android:id="@+id/boolean4"
+            android:layout_width="match_parent"
+            android:text="BOOLEAN 4"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF5722"/>
+
+        <Button
+            android:id="@+id/boolean5"
+            android:layout_width="match_parent"
+            android:text="BOOLEAN 5"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF5722"/>
+
+        <Button
+            android:id="@+id/boolean6"
+            android:layout_width="match_parent"
+            android:text="BOOLEAN 6"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF5722"/>
+
+        <Button
+            android:id="@+id/boolean7"
+            android:layout_width="match_parent"
+            android:text="BOOLEAN 7"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF5722"/>
+
+        <Button
+            android:id="@+id/boolean8"
+            android:layout_width="match_parent"
+            android:text="BOOLEAN 8"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF5722"/>
+
+        <Button
+            android:id="@+id/boolean9"
+            android:layout_width="match_parent"
+            android:text="BOOLEAN 9"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF5722"/>
+
+        <Button
+            android:id="@+id/boolean10"
+            android:layout_width="match_parent"
+            android:text="BOOLEAN 10"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:backgroundTint="#FF5722"/>
+
+    </LinearLayout>
+</ScrollView>

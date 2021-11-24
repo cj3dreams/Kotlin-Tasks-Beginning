@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="32dp"
+        android:text="Begin6. Даны длины ребер a, b, c прямоугольного параллелепипеда. Найти его объем V=a∗b∗c и площадь поверхности S=2∗(a∗b+b∗c+a∗c)."
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/editTextBegin6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="110dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите число a"
+        android:inputType="numberSigned"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editTextBegin6_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="166dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите число b"
+        android:inputType="numberSigned"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editTextBegin6_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="222dp"
+        android:layout_marginRight="32dp"
+        android:hint="Введите число c"
+        android:inputType="numberSigned"
+        android:textSize="12sp" />
+
+
+    <Button
+        android:id="@+id/buttonBegin6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:text="Найти"
+        android:backgroundTint="#7986CB"
+        android:layout_margin="32dp"/>
+
+</RelativeLayout>
